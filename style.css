@@ -4,18 +4,23 @@ body{
 /*section and division*/
 #mission{
     background-color: turquoise;
+    box-shadow: 10px 10px 20px gray;
 }
 #vision{
     background-color: aqua;
+    box-shadow: 10px 10px 20px gray;
 }
 #goals{
     background-color: wheat;
+    box-shadow: 10px 10px 20px gray;
 }
 #sec5{
     font-size:large;
     background-color: orange;
     padding: 50px;
     margin: 300px 100px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
 }
 
 /*color*/
