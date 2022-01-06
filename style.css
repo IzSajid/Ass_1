@@ -11,6 +11,12 @@ body{
 #goals{
     background-color: wheat;
 }
+#sec5{
+    font-size:large;
+    background-color: orange;
+    padding: 50px;
+    margin: 300px 100px;
+}
 
 /*color*/
 .orange{
@@ -19,14 +25,19 @@ body{
 .darksalmon{
     color: darksalmon;
 }
+.white{
+    color: white;
+}
 /*Direct Types*/
 h1{
     font-size:50px;
 }
+h2{
+    font-size: 40px;
+}
 footer{
     background-color: black;
-    color: white;
-    text-align: center; 
+    color: white; 
 }
 /*lining*/
 .flexible{
@@ -65,4 +76,8 @@ footer{
     border-left: 5px solid sandybrown;
     border-radius: 2px;
     padding-left: 5px;
+}
+#advertise{
+    width: 80%;
+    margin-left: 20px;
 }
