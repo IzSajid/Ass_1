@@ -1,5 +1,5 @@
 body{
-    margin: 50px;
+    margin: 100px;
 }
 /*section and division*/
 #mission{
@@ -16,23 +16,32 @@ body{
 .orange{
     color: orange;
 }
+.darksalmon{
+    color: darksalmon;
+}
 /*Direct Types*/
 h1{
     font-size:50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center; 
 }
 /*lining*/
 .flexible{
     display: flex;
     border: 10%;
-    padding: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 .half_wide{
     width: 50%;
 }
 .one_third{
     width: 480px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     padding: 20px;
     border-radius: 20px;
 }
@@ -47,4 +56,13 @@ h1{
     width: 100px;
     font-weight: bold;
     border-radius: 10%;
+}
+.curvefont{
+    font-family: cursive;
+    font-weight: bold;
+}
+#firstheader{
+    border-left: 5px solid sandybrown;
+    border-radius: 2px;
+    padding-left: 5px;
 }
